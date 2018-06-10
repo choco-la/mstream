@@ -1,0 +1,6 @@
+__pycache__
+.mypy_cache
+config.ini
+client_filter.txt
+content_filter.txt
+muted_accounts.csv

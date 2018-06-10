@@ -1,0 +1,13 @@
+# Regex list for mute filtering.
+
+# Malcious Strings
+hellowork
+
+# URL Filtering
+https://t\.co/
+
+# Invalid regex.
+invalid ( Regex
+
+# Backslash
+\\
